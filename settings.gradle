@@ -1,2 +1,3 @@
+include ':RingLibrary_by_Ashraful'
 include ':app'
 rootProject.name = "RingView_by_Ashraful"
