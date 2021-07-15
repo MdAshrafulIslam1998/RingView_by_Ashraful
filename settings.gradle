@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "RingView_by_Ashraful"
